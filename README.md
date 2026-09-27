@@ -26,4 +26,6 @@ W.R.A.I.T.H. is the current custom mobile platform associated with this work. It
 
 SCRAPYARD Labs’ future research direction is to evaluate R.A.V.E.N. and dimOS across two very different platforms: the custom W.R.A.I.T.H. rover and a prospective Unitree Go2 platform. This is proposed work; no completed cross-platform integration or testing results are claimed.
 
+For the proposed study scope and documentation principles, see the [Cross-Platform Autonomy Research Plan](docs/cross-platform-research.md).
+
 Planned work is labeled as planned. This repository does not claim completed platform integrations, testing results, sponsors, or partnerships.
